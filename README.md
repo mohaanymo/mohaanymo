@@ -1,21 +1,24 @@
 # Mohamed Hany
 
-Programmer drawn to the low level — how computers actually work beneath the
-abstractions. I don't box myself into one title; I follow the fundamentals
-wherever they lead.
+I like to understand things one layer below where most people stop — how a
+frame of video turns into bytes, how those bytes turn back into a picture, and
+all the math sitting quietly in between. I've never found a single title or
+domain that fits, because the fundamentals travel everywhere.
 
-- **Video & media engineering** — codecs, signals, how video and images are
-  really stored, and the math underneath it all.
-- **Core computer science** — data structures & algorithms, design patterns,
-  and the math that ties them together.
-- **Languages** — C++, Go, Python. I've built backend systems and written more
-  scripts than I can count.
+Most of that curiosity lands in **media and video engineering**: codecs,
+signals, how images and video are actually represented and stored, and the math
+that makes it all hold together. The rest goes to the **core of computing** —
+algorithms and data structures, design patterns, and the mathematics
+underneath them.
+
+I build mostly in **C++, Go, and Python** — closer to the metal when the
+problem asks for it, backend systems and tooling when it doesn't.
 
 ### Featured work
 
 **[m314dl](https://github.com/mohaanymo/m314dl)** — a fast HLS & DASH video
 downloader in Go with native, in-process CENC decryption. One static binary,
-no `mp4decrypt` or external tools on the download path.
+no external tools on the download path.
 
 ### Reach me
 
